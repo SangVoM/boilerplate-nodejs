@@ -1,4 +1,4 @@
-# WINO PROJECT
+# PROJECT
 
 ## Installed request
 
